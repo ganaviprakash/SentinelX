@@ -1,6 +1,6 @@
-# DisasterAlert AI
+# SentinelX
 
-DisasterAlert AI is a real-time, responsive disaster awareness and alert platform. Built entirely as a frontend application, it simulates an AI-driven safety engine that analyses local risk scores, provides status alerts, and delivers actionable safety recommendations based on your location. 
+SentinelX is a real-time, responsive disaster awareness and alert platform. Built entirely as a frontend application, it simulates an AI-driven safety engine that analyses local risk scores, provides status alerts, and delivers actionable safety recommendations based on your location. 
 
 Designed with a sleek, futuristic glassmorphism style, it serves as a top-tier hackathon-level demonstration of what modern web UI combined with smart mock data should look like.
 
@@ -22,7 +22,7 @@ Designed with a sleek, futuristic glassmorphism style, it serves as a top-tier h
 ## How to Run
 
 1. Simply pull this folder to your local machine:
-   `disaster-alert-ai/`
+   `SentinelX/`
 2. Open `index.html` in your favorite modern browser (Chrome, Edge, Firefox, etc.)
    *Note: Using a tool like `Live Server` in VS Code is recommended to avoid any local CORS restrictions with the map tiles, but it is standardly plug-and-play.*
 
